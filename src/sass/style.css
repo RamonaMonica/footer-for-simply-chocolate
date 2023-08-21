@@ -121,7 +121,7 @@
     list-style: none;
   }
 
-  .li, .addresses-items, .footer-social-items, .ooter-navigation-items {
+  .li, .addresses-items, .footer-social-items, .footer-navigation-items {
     display: list-item;
     list-style: none;
   }
