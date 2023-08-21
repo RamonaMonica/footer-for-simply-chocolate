@@ -121,9 +121,9 @@
     list-style: none;
   }
 
-  .li {
+  .li, .addresses-items, .footer-social-items, .ooter-navigation-items {
     display: list-item;
-    list-style: none;;
+    list-style: none;
   }
 
   .a {
